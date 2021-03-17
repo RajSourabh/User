@@ -8,10 +8,10 @@
 		<version>2.4.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.project.Order</groupId>
-	<artifactId>Order</artifactId>
+	<groupId>com.project.User</groupId>
+	<artifactId>User</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Order</name>
+	<name>User</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 	<java.version>1.8</java.version>
